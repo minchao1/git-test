@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("adasd12");
         System.out.println("123123123");
         System.out.println("test");
+        System.out.println("pull");
     }
 }
