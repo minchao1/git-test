@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("adasdd12312");
         System.out.println("adasd1231231212");
         System.out.println("adasd12");
+        System.out.println("123123123");
     }
 }
